@@ -1,0 +1,35 @@
+_repo: Frank-Merriwell-Jr-s-Helping-Hand-Or-Fair-Play-and-No-Favors_62421
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Standish, Burt L.
+    aliases:
+    - Patten, William Gilbert
+    - Patten, Gilbert
+    - Patten, William G. (William Gilbert)
+    - Wilder, William West
+    - Wilder, William W. (William West)
+    - Patten, George William
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '3848'
+    url: http://www.gutenberg.org/2009/agents/3848
+    wikipedia: https://en.wikipedia.org/wiki/Burt_L._Standish
+description: ''
+gutenberg_issued: '2020-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62421'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dime novels'
+- !lcc 'PZ'
+- !lcsh 'Merriwell, Frank, Jr. (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Arizona -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: Frank Merriwell, Jr.'s, Helping Hand; Or, Fair Play and No Favors
+url: http://www.gutenberg.org/ebooks/62421
